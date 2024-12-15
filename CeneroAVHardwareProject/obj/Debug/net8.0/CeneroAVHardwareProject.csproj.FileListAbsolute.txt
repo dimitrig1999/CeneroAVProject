@@ -1,0 +1,14 @@
+C:\Users\Dimitri\OneDrive\Desktop\CeneroAVHardwareProject\CeneroAVHardwareProject\bin\Debug\net8.0\CeneroAVHardwareProject.exe
+C:\Users\Dimitri\OneDrive\Desktop\CeneroAVHardwareProject\CeneroAVHardwareProject\bin\Debug\net8.0\CeneroAVHardwareProject.deps.json
+C:\Users\Dimitri\OneDrive\Desktop\CeneroAVHardwareProject\CeneroAVHardwareProject\bin\Debug\net8.0\CeneroAVHardwareProject.runtimeconfig.json
+C:\Users\Dimitri\OneDrive\Desktop\CeneroAVHardwareProject\CeneroAVHardwareProject\bin\Debug\net8.0\CeneroAVHardwareProject.dll
+C:\Users\Dimitri\OneDrive\Desktop\CeneroAVHardwareProject\CeneroAVHardwareProject\bin\Debug\net8.0\CeneroAVHardwareProject.pdb
+C:\Users\Dimitri\OneDrive\Desktop\CeneroAVHardwareProject\CeneroAVHardwareProject\obj\Debug\net8.0\CeneroAVHardwareProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitri\OneDrive\Desktop\CeneroAVHardwareProject\CeneroAVHardwareProject\obj\Debug\net8.0\CeneroAVHardwareProject.AssemblyInfoInputs.cache
+C:\Users\Dimitri\OneDrive\Desktop\CeneroAVHardwareProject\CeneroAVHardwareProject\obj\Debug\net8.0\CeneroAVHardwareProject.AssemblyInfo.cs
+C:\Users\Dimitri\OneDrive\Desktop\CeneroAVHardwareProject\CeneroAVHardwareProject\obj\Debug\net8.0\CeneroAVHardwareProject.csproj.CoreCompileInputs.cache
+C:\Users\Dimitri\OneDrive\Desktop\CeneroAVHardwareProject\CeneroAVHardwareProject\obj\Debug\net8.0\CeneroAVHardwareProject.dll
+C:\Users\Dimitri\OneDrive\Desktop\CeneroAVHardwareProject\CeneroAVHardwareProject\obj\Debug\net8.0\refint\CeneroAVHardwareProject.dll
+C:\Users\Dimitri\OneDrive\Desktop\CeneroAVHardwareProject\CeneroAVHardwareProject\obj\Debug\net8.0\CeneroAVHardwareProject.pdb
+C:\Users\Dimitri\OneDrive\Desktop\CeneroAVHardwareProject\CeneroAVHardwareProject\obj\Debug\net8.0\CeneroAVHardwareProject.genruntimeconfig.cache
+C:\Users\Dimitri\OneDrive\Desktop\CeneroAVHardwareProject\CeneroAVHardwareProject\obj\Debug\net8.0\ref\CeneroAVHardwareProject.dll
